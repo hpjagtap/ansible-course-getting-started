@@ -1,4 +1,4 @@
-# Ansible Getting Started Course
+# Ansible Course Getting Started
 
 ## Noteworthy Ansible Updates
 
